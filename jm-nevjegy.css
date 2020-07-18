@@ -12,7 +12,7 @@ body {
   font-size: 100%;
 }
 body {
-  background: url('assets/var.jpg') no-repeat center center fixed;
+  background: url('var.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 .profile-card {
